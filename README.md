@@ -1,10 +1,5 @@
 ## I'm Fernando Mós and i study web developer in school Be Trybe.
 ## "May the code be with you!" <img align="center" alt="dart" height="100" src="https://super.abril.com.br/wp-content/uploads/2016/12/giphy-21.gif">
-- Currently: <strong>Project Shopping Cart</strong> 
- - Status: ✅ Completed;
-- Last Project: <strong>Zoo Functions</strong>
-  - Status: ✅ Completed;
-  - Project using JS Vanilla;
 
 <hr>
 
