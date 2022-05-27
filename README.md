@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/folders/1uv446ldGqGwfRlaDJGciwNidhoz4KAHt" alt="My Logo"/>
+<img style="width: 80px" src="https://i.pinimg.com/564x/b6/0b/e0/b60be0148e1f965ccd7ecdcc60612058.jpg" alt="My Logo"/>
 ## MOS | CODE
 
 
