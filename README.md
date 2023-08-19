@@ -1,25 +1,40 @@
-<h1> Hi everyone! 🖖</h1>
+<img src="https://github.com/FernandoMos92/FernandoMos92/assets/60073911/d751855d-1783-4707-88ba-304ce91a50c7" align="right"/>
+<p> <img src="https://komarev.com/ghpvc/?username=fernandomos92&color=yellow" alt="Profile views"/> </p>
 
-<img src="https://user-images.githubusercontent.com/60073911/187442073-2ee06cc9-c73e-45c8-b4e0-dffc07c5d6a7.png" />
+- 🔥 Mid-level software engineer at in <a href="https://www.linkedin.com/company/radix-engineering-and-software/about/" target="_Blank">Radix Engenharia e Software</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&hide=issues&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=FernandoMos92" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=FernandoMos92" height="150" alt="languages graph"  />
-</div>
+- 💬 Ask me about JavaScript, TypeScript, CSS, SQL, Node.JS, Go and others technologies
 
-<h2>About me 🤓💻</h2>
-I like to solve problems.
+- 👨‍💻 More at [fernandomos.dev](https://fernandomos.dev)
 
-📚 Currently studying Back-end development, NodeJs, Python, MySQL, mongoDB.
 
-<h2>My Tools 🛠️</h2>
-<div style="display: inline_block">
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img align="center" src="https://img.shields.io/badge/MongoDB-1572B6?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=jest&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/fernando-mos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-fernandomos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
