@@ -1,6 +1,3 @@
-<img src="https://github.com/FernandoMos92/FernandoMos92/assets/60073911/d751855d-1783-4707-88ba-304ce91a50c7" align="right"/>
-<p> <img src="https://komarev.com/ghpvc/?username=fernandomos92&color=yellow" alt="Profile views"/> </p>
-
 - 🔥 Mid-level software engineer at in <a href="https://www.linkedin.com/company/radix-engineering-and-software/about/" target="_Blank">Radix Engenharia e Software</a>
 
 - 💬 Ask me about JavaScript, TypeScript, CSS, SQL, Node.JS, Go and others technologies
