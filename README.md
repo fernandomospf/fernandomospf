@@ -1,4 +1,4 @@
-- 🔥 Mid-level software engineer at in <a href="https://www.linkedin.com/company/radix-engineering-and-software/about/" target="_Blank">Radix Engenharia e Software</a>
+- 🔥 Technical Senior Specialist at in NTT Data
 
 - 💬 Ask me about JavaScript, TypeScript, CSS, SQL, Node.JS, Go and others technologies
 
