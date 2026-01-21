@@ -1,6 +1,6 @@
 - 🔥 Technical Senior Specialist at in NTT Data
 
-- 💬 Ask me about JavaScript, TypeScript, CSS, SQL, Node.JS, Go and others technologies
+- 💬 Ask me about JavaScript, TypeScript, CSS, SQL, Node.JS and others technologies
 
 - 👨‍💻 More at [fernandomos.dev](https://fernandomos.dev)
 
